@@ -29,6 +29,7 @@ public class HelloWorld {
         System.out.println("Tommy's test");
         System.out.println("Tommy's test 2");
         System.out.println("Tommy's test 3");
+        System.out.println("Merge conflict 1");
 	}
 
 }
